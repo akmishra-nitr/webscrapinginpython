@@ -2,3 +2,5 @@ References:
 
 1. First web scraper (https://first-web-scraper.readthedocs.io/en/latest/)
 2. BeautifulSoup Documentation (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+3. https://openlibrary.org
+4. Learn Flask, SQLite, Django
